@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 - Noted known limitation in docs
 - Added CONTRIBUTING.md stub
 - Consolidated duplicate helper functions
+
+## 2026-03-23
+- Tested build on clean environment
+- Added type hints to helper functions
